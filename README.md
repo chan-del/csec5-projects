@@ -4,4 +4,4 @@ This repository contains my academic projects and activities related to computer
 
 ## Author
 Rona Mae M. Quite
-BS Computer Science – 3rd Year
+BS Computer Science – 4th Year
